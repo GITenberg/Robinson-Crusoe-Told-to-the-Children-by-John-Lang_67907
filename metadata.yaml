@@ -1,0 +1,57 @@
+_repo: Robinson-Crusoe-Told-to-the-Children-by-John-Lang_67907
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Lang, John
+    birthdate: 1849
+    deathdate: 1917
+    gutenberg_agent_id: '53544'
+    url: http://www.gutenberg.org/2009/agents/53544
+  illustrator:
+    agent_name: Robinson, Will Bennett
+    alias: Robinson, W. B.
+    gutenberg_agent_id: '54523'
+    url: http://www.gutenberg.org/2009/agents/54523
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Defo, Daniel
+    - Moreton, Andrew
+    - Defoë, Daniel
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/ebooks/author/26500
+  editor:
+    agent_name: Chisholm, Louey
+    gutenberg_agent_id: '2485'
+    url: http://www.gutenberg.org/2009/agents/2485
+description: ''
+gutenberg_issued: '2022-04-23'
+identifiers:
+  gutenberg: '67907'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015078554774&view=1up&seq=11&skin=2021
+pgterms:marc905: 20220403130127defoe
+pgterms:marc906: '1905'
+pgterms:marc907: gb
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :T. C. & E. C. Jack,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Told to the Children Series
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Crusoe, Robinson (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Atlantic Ocean -- Juvenile fiction'
+- !lcsh 'Shipwreck survival -- Juvenile fiction'
+- GITenberg
+title: Robinson Crusoe, Told to the Children by John Lang
+url: http://www.gutenberg.org/ebooks/67907
