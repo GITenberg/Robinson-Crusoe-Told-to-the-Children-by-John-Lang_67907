@@ -12,6 +12,9 @@ contributor:
     alias: Robinson, W. B.
     gutenberg_agent_id: '54523'
     url: http://www.gutenberg.org/2009/agents/54523
+covers:
+- cover_type: archival
+  image_path: 67907-h/images/cover.jpg
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -31,6 +34,8 @@ creator:
     gutenberg_agent_id: '2485'
     url: http://www.gutenberg.org/2009/agents/2485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67907#Robinson-Crusoe-Told-to-the-Children-by-John-Lang
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67907'
